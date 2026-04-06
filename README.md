@@ -5,4 +5,3 @@ In this i have done 4 portion covering:
 2: Sales prediction
 3: Unemployment in India
 4: Mail Spam Detection
-Satyajit Pradhan
